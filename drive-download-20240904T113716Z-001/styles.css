@@ -1,0 +1,28 @@
+body{
+    color: white;
+    background:black;
+    margin:0px;
+    
+  font-family: "Grenze Gotisch", serif;
+}
+
+header{
+border-bottom: solid 5px rgb(51, 6, 124);
+padding: 20 px;
+font-size: 40; 
+color:blue;
+
+}
+section{
+     background: rgb(24, 0, 0);
+     padding-bottom: 50px;
+     padding-top: 50px;
+    display:flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+img{
+  height:200px;
+}
